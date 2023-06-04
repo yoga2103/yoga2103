@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hi there, i'm yoga 👋
 
-<!--
-**yoga2103/yoga2103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+```js
+let AboutMe = {
+  Name: 'Yoga',
+  Age: 12,
+  Pronouns: 'He/Him',
+  About: 'I am a front-end web developer from Bali',
+  Language: ['HTML', 'CSS', 'Javascript/Typescript', 'SASS'],
+  Learning: ['godot', 'magicavoxel'],
+  Tool: ['vscode', 'git', 'react', 'rollup', 'eslint', 'jest', 'tailwindcss']
 
-Here are some ideas to get you started:
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoga2103&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+### Accounts
+- NPM: [Yoga](https://npmjs.org)
+- Github: [Yoga2103](https://github.com/yoga2103)
+- Instagram: [Yoga]()
+
+### Donate
+- Saweria: [yoga]()
+- 
